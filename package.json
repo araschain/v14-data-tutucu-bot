@@ -18,7 +18,7 @@
     "node": "16.x"
   },
   "repository": {
-    "url": "https://github.com/araschain/v14data-tutucu-bot"
+    "url": "https://github.com/araschain/v14-data-tutucu-bot"
   },
   "license": "MIT",
   "keywords": [
