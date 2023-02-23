@@ -5,3 +5,5 @@
 # npm install yazın ve arından bütün paketler yüklenecektir.
 # config.json dosyasının tamamını doldurunuz.
 # `node .` yazarak projeniz başlatılacaktır.
+
+<img src="https://imgyukle.com/i/Q5rYMA.png" />
